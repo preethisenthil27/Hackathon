@@ -1,0 +1,5 @@
+{
+  "name": "Chatbox UI",
+  "description": "A simple chatbox UI for Looker Studio.",
+  "dataSetDependency": {}
+}

@@ -1,5 +1,9 @@
 {
-  "name": "Chatbox UI",
-  "description": "A simple chatbox UI for Looker Studio.",
-  "dataSetDependency": {}
+  "visualization": {
+    "id": "chatbox-viz",
+    "label": "Chatbox Visualization",
+    "config": {
+      "script": "https://raw.githubusercontent.com/preethisenthil27/Hackathon/main/script.js"
+    }
+  }
 }
